@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+#memm{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.kept{
+    flex: 0 1 33%;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+img{
+    width: 100%;
+}
